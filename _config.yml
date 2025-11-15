@@ -1,0 +1,6 @@
+title: "Security Engineering Notes"
+author: gotthiskil
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
